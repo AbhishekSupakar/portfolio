@@ -12,4 +12,4 @@ HR Analytics Dashboard (Power BI)
 [Watch Dashboard Walkthrough on Google Drive](https://drive.google.com/file/d/1WbXm5vH0M4gR7-xcxUvv-5G4ETrx7LIj/view?usp=sharing)
 **Screenshot**:
 ![HR Dashboard](HRDashboard.png)  
-![Detailed View]([HRDashboard_Detailed View.png](url))
+![Detailed View](HRDashboard_DetailedView.png)
